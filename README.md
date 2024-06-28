@@ -6,7 +6,7 @@
 This repository is the visualization of the sentimental analysis aupon top brands bades on the given dataset. The visualization is done using histogram, piechart and heat map.
 
 ## Dataset
-The  dataset consists of 4 columns and 74682 rows. 
+The  dataset https://github.com/JasnaNC/PRODIGY_DS_04/blob/main/twitter_training.csv.zip consists of 4 columns and 74682 rows. 
 - column 1 contains (ID): A unique identifier for each data point, used to distinguish individual records in the dataset.
 - column 1 contains (Brand):The name of the brand or entity associated with the sentiment analysis. This could be a company, product, or service.
 - column 1 contains (Sentiment):The sentiment classification of the sentence, which can be one of the following positive,negative,neutral and irrelevant             
